@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aspire", "base\base.vcxproj", "{8EAFB0BD-57A0-4C4B-8765-6C64C32BDDE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		BO1|Xbox 360 = BO1|Xbox 360
+		BO2|Xbox 360 = BO2|Xbox 360
+		MW2|Xbox 360 = MW2|Xbox 360
+		MW3|Xbox 360 = MW3|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EAFB0BD-57A0-4C4B-8765-6C64C32BDDE7}.BO1|Xbox 360.ActiveCfg = BO1|Xbox 360
+		{8EAFB0BD-57A0-4C4B-8765-6C64C32BDDE7}.BO1|Xbox 360.Build.0 = BO1|Xbox 360
+		{8EAFB0BD-57A0-4C4B-8765-6C64C32BDDE7}.BO1|Xbox 360.Deploy.0 = BO1|Xbox 360
+		{8EAFB0BD-57A0-4C4B-8765-6C64C32BDDE7}.BO2|Xbox 360.ActiveCfg = BO2|Xbox 360
+		{8EAFB0BD-57A0-4C4B-8765-6C64C32BDDE7}.BO2|Xbox 360.Build.0 = BO2|Xbox 360
+		{8EAFB0BD-57A0-4C4B-8765-6C64C32BDDE7}.BO2|Xbox 360.Deploy.0 = BO2|Xbox 360
+		{8EAFB0BD-57A0-4C4B-8765-6C64C32BDDE7}.MW2|Xbox 360.ActiveCfg = MW2|Xbox 360
+		{8EAFB0BD-57A0-4C4B-8765-6C64C32BDDE7}.MW2|Xbox 360.Build.0 = MW2|Xbox 360
+		{8EAFB0BD-57A0-4C4B-8765-6C64C32BDDE7}.MW2|Xbox 360.Deploy.0 = MW2|Xbox 360
+		{8EAFB0BD-57A0-4C4B-8765-6C64C32BDDE7}.MW3|Xbox 360.ActiveCfg = MW3|Xbox 360
+		{8EAFB0BD-57A0-4C4B-8765-6C64C32BDDE7}.MW3|Xbox 360.Build.0 = MW3|Xbox 360
+		{8EAFB0BD-57A0-4C4B-8765-6C64C32BDDE7}.MW3|Xbox 360.Deploy.0 = MW3|Xbox 360
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

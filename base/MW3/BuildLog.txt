@@ -1,0 +1,56 @@
+﻿  HttpSockets.cpp
+  Vectors.cpp
+Vectors.cpp(17): warning C4172: returning address of local variable or temporary
+Vectors.cpp(22): warning C4172: returning address of local variable or temporary
+Vectors.cpp(46): warning C4172: returning address of local variable or temporary
+Vectors.cpp(51): warning C4172: returning address of local variable or temporary
+  dependents.cpp
+  detour.cpp
+  drawing.cpp
+drawing.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(114): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(114): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(114): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(115): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(115): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(115): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(116): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(116): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(116): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(117): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(117): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(117): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(118): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(118): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(118): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(119): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(119): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(119): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(120): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(120): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(120): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(382): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+drawing.cpp(382): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+drawing.cpp(382): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+drawing.cpp(382): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+  esp.cpp
+esp.cpp(29): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+esp.cpp(29): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+esp.cpp(29): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+esp.cpp(29): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+esp.cpp(217): warning C4553: '==' : operator has no effect; did you intend '='?
+  functions.cpp
+functions.cpp(100): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+  hooks.cpp
+  main.cpp
+  menu.cpp
+  menufunc.cpp
+  sockets.cpp
+  structs.cpp
+structs.cpp(141): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+  tools.cpp
+tools.cpp(166): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+  Generating code
+  Finished generating code

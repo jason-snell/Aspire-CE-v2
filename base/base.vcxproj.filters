@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="main">
+      <UniqueIdentifier>{94a7edc6-95ca-4d5a-a6fe-4bbb725a684c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xbox">
+      <UniqueIdentifier>{5a217944-7b37-4625-9916-c585a8b30a02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tools">
+      <UniqueIdentifier>{fdd83df9-2ce5-453b-92b1-9319380f20ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dependents">
+      <UniqueIdentifier>{2ce1486a-c02c-4ef6-aa1e-05ac2767ac7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="structs">
+      <UniqueIdentifier>{13c50244-b18b-43a9-b2a2-f60b3a955633}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detour">
+      <UniqueIdentifier>{33587ad4-0d5b-4db4-90fd-df1748ac6c1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="hooks">
+      <UniqueIdentifier>{df93741c-3c2e-4824-8cb4-f1d4d815c9ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drawing">
+      <UniqueIdentifier>{226d8c44-150d-4983-96bb-626a30eb26a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tools\Vectors">
+      <UniqueIdentifier>{e3225fc6-761e-488a-b037-f3af380928f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tools\menufunc">
+      <UniqueIdentifier>{3808a0ca-2587-4bde-8eeb-48e88162e158}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tools\Ini">
+      <UniqueIdentifier>{596bd813-37f1-4fc0-943a-43c5455c10fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="menu">
+      <UniqueIdentifier>{bb6bd15c-a234-4636-afb6-e1c4767a3a0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="functions">
+      <UniqueIdentifier>{a28c8179-4560-4701-ba81-f6eea9ef9b2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tools\sockets">
+      <UniqueIdentifier>{f75a780e-b022-4dcb-9e1a-5782ef036210}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="esp">
+      <UniqueIdentifier>{1afcdc6c-22b9-4fe9-940b-e8bd789bbaab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="aimbot">
+      <UniqueIdentifier>{ac0b956d-c089-49bf-be62-75b5ad5fa5d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="spinbot">
+      <UniqueIdentifier>{2cd7840a-a962-46d1-abc9-ca7c6b189b54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="auth">
+      <UniqueIdentifier>{e441e5b5-bcac-4b38-9d5e-2170a251052b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="kernel.h">
+      <Filter>xbox</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="tools.h">
+      <Filter>tools</Filter>
+    </ClInclude>
+    <ClInclude Include="dependents.h">
+      <Filter>dependents</Filter>
+    </ClInclude>
+    <ClInclude Include="structs.h">
+      <Filter>structs</Filter>
+    </ClInclude>
+    <ClInclude Include="detour.h">
+      <Filter>detour</Filter>
+    </ClInclude>
+    <ClInclude Include="hooks.h">
+      <Filter>hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="drawing.h">
+      <Filter>drawing</Filter>
+    </ClInclude>
+    <ClInclude Include="menufunc.h">
+      <Filter>tools\menufunc</Filter>
+    </ClInclude>
+    <ClInclude Include="Vectors.h">
+      <Filter>tools\Vectors</Filter>
+    </ClInclude>
+    <ClInclude Include="Ini.h">
+      <Filter>tools\Ini</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>menu</Filter>
+    </ClInclude>
+    <ClInclude Include="functions.h">
+      <Filter>functions</Filter>
+    </ClInclude>
+    <ClInclude Include="HttpSocket.h">
+      <Filter>tools\sockets</Filter>
+    </ClInclude>
+    <ClInclude Include="xamNet.h">
+      <Filter>xbox</Filter>
+    </ClInclude>
+    <ClInclude Include="sockets.h">
+      <Filter>tools\sockets</Filter>
+    </ClInclude>
+    <ClInclude Include="esp.h">
+      <Filter>esp</Filter>
+    </ClInclude>
+    <ClInclude Include="aimbot.h">
+      <Filter>aimbot</Filter>
+    </ClInclude>
+    <ClInclude Include="spinbot.h">
+      <Filter>spinbot</Filter>
+    </ClInclude>
+    <ClInclude Include="auth.h">
+      <Filter>auth</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="tools.cpp">
+      <Filter>tools</Filter>
+    </ClCompile>
+    <ClCompile Include="dependents.cpp">
+      <Filter>dependents</Filter>
+    </ClCompile>
+    <ClCompile Include="structs.cpp">
+      <Filter>structs</Filter>
+    </ClCompile>
+    <ClCompile Include="detour.cpp">
+      <Filter>detour</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks.cpp">
+      <Filter>hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="drawing.cpp">
+      <Filter>drawing</Filter>
+    </ClCompile>
+    <ClCompile Include="menufunc.cpp">
+      <Filter>tools\menufunc</Filter>
+    </ClCompile>
+    <ClCompile Include="Vectors.cpp">
+      <Filter>tools\Vectors</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>menu</Filter>
+    </ClCompile>
+    <ClCompile Include="functions.cpp">
+      <Filter>functions</Filter>
+    </ClCompile>
+    <ClCompile Include="HttpSockets.cpp">
+      <Filter>tools\sockets</Filter>
+    </ClCompile>
+    <ClCompile Include="sockets.cpp">
+      <Filter>tools\sockets</Filter>
+    </ClCompile>
+    <ClCompile Include="esp.cpp">
+      <Filter>esp</Filter>
+    </ClCompile>
+    <ClCompile Include="aimbot.cpp">
+      <Filter>aimbot</Filter>
+    </ClCompile>
+    <ClCompile Include="spinbot.cpp">
+      <Filter>spinbot</Filter>
+    </ClCompile>
+    <ClCompile Include="auth.cpp">
+      <Filter>auth</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Config.xml" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,143 @@
+﻿  aimbot.cpp
+aimbot.cpp(267): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+aimbot.cpp(268): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+  auth.cpp
+auth.cpp(92): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+auth.cpp(95): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+auth.cpp(98): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+auth.cpp(101): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+auth.cpp(106): warning C4018: '<' : signed/unsigned mismatch
+auth.cpp(109): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+auth.cpp(112): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+auth.cpp(115): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+auth.cpp(118): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+auth.cpp(83): warning C4101: 'shaState' : unreferenced local variable
+  dependents.cpp
+  detour.cpp
+  drawing.cpp
+drawing.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(114): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(114): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(114): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(115): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(115): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(115): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(116): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(116): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(116): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(117): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(117): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(117): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(118): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(118): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(118): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(119): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(119): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(119): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(120): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(120): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(120): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+drawing.cpp(391): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+drawing.cpp(391): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+drawing.cpp(391): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+drawing.cpp(391): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+  esp.cpp
+esp.cpp(29): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+esp.cpp(29): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+esp.cpp(29): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+esp.cpp(29): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+esp.cpp(278): warning C4553: '==' : operator has no effect; did you intend '='?
+  functions.cpp
+functions.cpp(100): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+  hooks.cpp
+  HttpSockets.cpp
+  main.cpp
+  menu.cpp
+  menufunc.cpp
+  sockets.cpp
+  spinbot.cpp
+  structs.cpp
+  tools.cpp
+tools.cpp(165): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+tools.cpp(339): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(340): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(341): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(351): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(352): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(353): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(354): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(356): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(357): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(358): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(359): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(361): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(362): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(363): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(364): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(366): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(367): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(368): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(369): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(371): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(372): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(373): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(374): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(376): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(377): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(378): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(379): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(381): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(382): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(383): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(384): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(386): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(388): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(389): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(390): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(391): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(393): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(395): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(396): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(397): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(398): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(400): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+tools.cpp(555): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(555): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(555): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(555): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(555): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(555): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(555): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(557): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(557): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(557): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(557): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(557): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(557): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(557): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(557): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(557): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(558): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(559): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(561): warning C4172: returning address of local variable or temporary
+tools.cpp(577): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(577): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(577): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(577): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(577): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(577): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(578): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(578): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(578): warning C4309: 'initializing' : truncation of constant value
+tools.cpp(578): warning C4309: 'initializing' : truncation of constant value
+  Vectors.cpp
+Vectors.cpp(17): warning C4172: returning address of local variable or temporary
+Vectors.cpp(22): warning C4172: returning address of local variable or temporary
+Vectors.cpp(46): warning C4172: returning address of local variable or temporary
+Vectors.cpp(51): warning C4172: returning address of local variable or temporary
+Vectors.cpp(56): warning C4172: returning address of local variable or temporary
+structs.obj : error LNK2005: "void (__cdecl* getCpuKey)(char *)" (?getCpuKey@@3P6AXPAD@ZA) already defined in auth.obj
+tools.obj : error LNK2005: "void __cdecl RC4(void *,int,void *,int)" (?RC4@@YAXPAXH0H@Z) already defined in auth.obj
+F:\C++\Sources\AspireCE v2\base\BO1\Aspire.exe : fatal error LNK1169: one or more multiply defined symbols found

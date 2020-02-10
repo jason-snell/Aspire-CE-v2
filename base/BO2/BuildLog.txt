@@ -1,0 +1,18 @@
+﻿  main.cpp
+f:\c++\sources\aspirece v2\base\dependents.h(202): warning C4309: 'initializing' : truncation of constant value
+f:\c++\sources\aspirece v2\base\dependents.h(202): warning C4309: 'initializing' : truncation of constant value
+f:\c++\sources\aspirece v2\base\dependents.h(202): warning C4309: 'initializing' : truncation of constant value
+f:\c++\sources\aspirece v2\base\dependents.h(203): warning C4309: 'initializing' : truncation of constant value
+f:\c++\sources\aspirece v2\base\dependents.h(203): warning C4309: 'initializing' : truncation of constant value
+f:\c++\sources\aspirece v2\base\dependents.h(204): warning C4309: 'initializing' : truncation of constant value
+f:\c++\sources\aspirece v2\base\dependents.h(204): warning C4309: 'initializing' : truncation of constant value
+f:\c++\sources\aspirece v2\base\dependents.h(204): warning C4309: 'initializing' : truncation of constant value
+f:\c++\sources\aspirece v2\base\dependents.h(205): warning C4309: 'initializing' : truncation of constant value
+f:\c++\sources\aspirece v2\base\dependents.h(205): warning C4309: 'initializing' : truncation of constant value
+f:\c++\sources\aspirece v2\base\dependents.h(209): warning C4309: 'initializing' : truncation of constant value
+f:\c++\sources\aspirece v2\base\dependents.h(209): warning C4309: 'initializing' : truncation of constant value
+f:\c++\sources\aspirece v2\base\dependents.h(210): warning C4309: 'initializing' : truncation of constant value
+f:\c++\sources\aspirece v2\base\dependents.h(210): warning C4309: 'initializing' : truncation of constant value
+main.cpp(382): warning C4018: '<' : signed/unsigned mismatch
+  Generating code
+  Finished generating code
